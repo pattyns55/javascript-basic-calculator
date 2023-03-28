@@ -12,7 +12,7 @@ function calculate(operation) {
     const num1 = parseFloat(input1);
     const num2 = parseFloat(input2);
     //TODO: your code here, add the 2 numbers
-    
+    result = (num1 + num2)
 
     document.getElementById("result").textContent = result;
 }
